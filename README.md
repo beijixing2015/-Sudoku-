@@ -1,0 +1,2 @@
+# -Sudoku-
+自己写的一个数独酷的小游戏，可实现快速生成难度四个级别的数独题，并支持撤销，重做，可以设置按键音效和背景音乐。其中数独生成算法为基于挖洞思想生成的，相关算法论文链接：http://wenku.baidu.com/link?url=n_ICg3xx-MQYMmrn7auFnZIuSp73ePC0HbXjbbC5tH5aOXZfdyY9S1wvB6lOUC6CqJ63l5MUPlGXJD15gOSy-62_Gjjl4NAxciP57OGU0EW，数独生成部分代码是在别人代码基础上改进的。其余部分均为原创。
